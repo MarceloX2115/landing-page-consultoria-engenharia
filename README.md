@@ -19,8 +19,7 @@ A landing page foi desenvolvida para representar a marca **Mayra Luanne – Enge
 * Facilitar o contato com potenciais clientes
 * Criar presença digital sólida
 
-Landing pages são amplamente utilizadas para **apresentação de serviços e geração de leads**, sendo uma solução simples e eficiente para presença online ([Aurago][1]).
-
+Landing pages são amplamente utilizadas para **apresentação de serviços e geração de leads**, sendo uma solução simples e eficiente para presença online
 ---
 
 ## 🎯 Funcionalidades
