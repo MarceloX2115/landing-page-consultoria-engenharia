@@ -222,7 +222,7 @@ input, textarea, select { font-family: inherit; }
 .hero__bg {
   position: absolute;
   inset: 0;
-  background-image: url('img/LOGO-MÁRMORE.png');
+  background-image: url('img/logo-marmore.png');
   background-size: cover;
   background-position: center;
   opacity: 0.6;
